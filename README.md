@@ -18,7 +18,7 @@ My name is Samuel Baldwin and I am a software developer from Rhode Island.
     <a = href="https://github.com/ColeHausman">
     Cole Hausman</a> on distributed Queues
     <a = href="https://github.com/SamDavidBaldwin/asyncrelaxedqueues">
-    here:
+    here
     </a></h2>
   
   <h2> Connect with me here <a href="https://www.linkedin.com/in/sam-baldwin-535333253/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> </h2>
